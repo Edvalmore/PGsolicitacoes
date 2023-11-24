@@ -1,0 +1,80 @@
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+section{
+	padding: 00px 0;
+	margin-left: 20px;
+	text-align:center;
+}
+section .section-title{
+	text-align:center;
+	margin-bottom:60px;
+	text-transform:uppercase;
+}
+#what-we-do{
+	background:#ffffff;
+}
+#what-we-do .card{
+	padding: 1rem!important;
+	border: none;
+	margin-bottom:1rem;
+	-webkit-transition: .5s all ease;
+	-moz-transition: .5s all ease;
+	transition: .5s all ease;
+}
+#what-we-do .card:hover{
+	-webkit-box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+	-moz-box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+	box-shadow: 0 16px 26px -10px rgb(25 84 127), 0 4px 25px 0px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(73, 54, 244, 0.2);
+}
+#what-we-do .card .card-block{
+	padding-left: 50px;
+    position: relative;
+}
+#what-we-do .card .card-block a{
+	font-weight:500;
+	text-decoration:none;
+}
+#what-we-do .card .card-block a i{
+	display:none;
+	
+}
+#what-we-do .card:hover .card-block a i{
+	display:inline-block;
+	font-weight:700;
+	
+}
+#what-we-do .card .card-block:before{
+	font-family: FontAwesome;
+    position: absolute;
+    font-size: 30px;
+	color: #19547f;
+
+    left: 0;
+	-webkit-transition: -webkit-transform .2s ease-in-out;
+    transition:transform .2s ease-in-out;
+}
+#what-we-do .card .block-1:before{
+    content: "\f00c";
+}
+#what-we-do .card .block-2:before{
+    content: "\f00c";
+}
+#what-we-do .card .block-3:before{
+    content: "\f00c";
+}
+#what-we-do .card .block-4:before{
+    content: "\f00c";
+}
+#what-we-do .card .block-5:before{
+    content: "\f00c";
+}
+#what-we-do .card .block-6:before{
+    content: "\f00c";
+}
+#what-we-do .card .block-7:before{
+    content: "\f00c";
+}
+#what-we-do .card:hover .card-block:before{
+	-webkit-transition: .5s all ease;
+	-moz-transition: .5s all ease;
+	transition: .5s all ease;
+}
