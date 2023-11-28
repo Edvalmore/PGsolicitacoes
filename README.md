@@ -2,6 +2,8 @@
 
 ![alt text](http://s3.amazonaws.com/creativetim_bucket/products/48/original/opt_mbw_thumbnail.jpg?1472405077)
 
+https://edvalmore.github.io/PGsolicitacoes
+
 O Projeto PGsolicitacoesPUC é um dos elementos mais úteis que podem ser usados ​​​​dentro de um projeto, por ser altamente recomendável não apenas como um recurso de design, mas como uma forma de orientar seus usuários em formulários difíceis.
 
 Primeiro de tudo, você precisa determinar quando precisa de um assistente. Você tem um formulário com mais de 10 campos? Você tem usuários que não estão concluindo o processo de registro? Você tem uma lista inacabada? Todos eles têm algo em comum; e todos eles têm a mesma solução. Então, o que há de errado em permitir que seus usuários vejam uma forma infinita? Eles ficarão desanimados para terminar. Qual é a solução? Melhor organização visual, principalmente em forma de assistente.
